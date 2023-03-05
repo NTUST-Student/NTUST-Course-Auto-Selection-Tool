@@ -13,6 +13,8 @@
 * 任何使用本程式碼和電腦程式的人士，即表示已閱讀、理解並同意以上免責聲明。
 ```
 
+[下載連結(Windows執行檔)](https://github.com/NTUST-Student/NTUST-Course-Auto-Selection-Tool/releases/tag/v1.3)
+
 ## Usage 
  Read `NTUST_Course_Auto_Selection_Tool_Guide.pdf` for more infomation
 1.	Execute `SelectionTool.exe` (double click it)
