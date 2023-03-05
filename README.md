@@ -14,6 +14,7 @@
 ```
 
 [下載連結(Windows執行檔)](https://github.com/NTUST-Student/NTUST-Course-Auto-Selection-Tool/releases/tag/v1.3)
+![image](screenshot.png)\
 
 ## Usage 
  Read `NTUST_Course_Auto_Selection_Tool_Guide.pdf` for more infomation
