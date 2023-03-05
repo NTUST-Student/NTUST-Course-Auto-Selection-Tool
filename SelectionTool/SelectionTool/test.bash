@@ -1,0 +1,18 @@
+curl 'https://courseselection.ntust.edu.tw/AddAndSub/B01/ExtraJoin' \
+  -H 'authority: courseselection.ntust.edu.tw' \
+  -H 'accept: text/html, */*; q=0.01' \
+  -H 'accept-language: zh-TW,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6' \
+  -H 'content-type: application/x-www-form-urlencoded; charset=UTF-8' \
+  -H 'cookie: bulletinDisplayState_B01=none; _ga=GA1.3.1637259380.1656693939; ntustLan=zh-TW; ASP.NET_SessionId=budh54tduew4woxkhb42uxeq; __RequestVerificationToken=zM4yUih5Rr1KATJata13SPlwSoKz2sMzG2Pj5kahntdwm42xE8GEStkkc54JpSnUOXtpBD2jl4jHGKFESILZvlrpb30YCGNhQqlubr48cxQ1; .ASPXAUTH=DB49481BB2CF3C3227EEA082D3EBEEDBC629112626916E5C58C2ECDD5C7305A52A17DC01689B1665019FEF7B66142D9C84347E9BDF56164CD6887ADA5C6C85A5CB8B530DC74FD95ADF8CC2ED76465F9E733851F9BBC84214E395469C698435B030C1DF4DEBB73854E000DD40DE2CF26C8E5C637634B769D0CC53CC22C8A09567698996AB7C20A53C1A8F143FD5310264E9267A5D62D9515529D1F621213EE9F96DC75752271D3235FF9D01C2C40383569989BF9F3FBD5A4DBDABEF94E33A19B89495003FA25620FA8B924B34A2C2ACACF2D180DFDD794DC0B3722402C540CC6942002710FE2318575F667FA1AB77B9BA70367EAB; ntustsecret=4E743155483762764D6650505234494E706379765A49543575495838776F626E; ntustjwtsecret=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuYW1lIjoiQjEwODE1MDU3IiwiZXhwIjoxNjc3NjEwNzY3LCJuYmYiOjE2Nzc1MjQzNjd9.snKNqQ8FFXMZjQbS0Etj2SXhPOZfJAI4QBj70ee1O2c; .AspNet.TwoFactorRememberBrowser=cTy3X31Y6XNKhv-szKHIWOIvhJV-ohMEd026188Gw1ordPdex42c2Gs6rQVQL8dUgS8QB7PasaTMsKtBDkSF_5LqgYTOz6cOcGRAekFYMO2GUs9CnsXOvdk6fVdQOHUaClEPz68hKtaQhfd83Lgb7WArnO69iPSqV4cY8FVb7tBzkZUQhMDBuDo5VI4Mi4FVBKecmnFkazDgKbPuRQhWAZSY9THRI8bJ-o1ue_AbYE-L5pi3tV4k6NgVt-sNa0RlapvK3CK0eOuK7Pqqn4ABL1QAD9GVng4XcK3UyIjREYI3kZhakHRboW_nJj3h-1PF; .AspNet.ApplicationCookie=wqrzIr303F-5HBe7UXu4c_BhrY3RWaBwO63AlhCdXjlOTD4ap7zDyyJfY0pGhpabJFeufNrPPHR966pBa08rtjVhMTXHrC-cZph1CNfqOeUE_w2Sfi9mM9NZpUHGzkPCp2wrUXepVlOudHn9VSjePZ1MyVCPyRbAexCSMSioG77pR5pwKEAbKu4W5Gmkv3tXBpkyjt__Y1pykn-HwX0_TFyk4B_wPVadvJyNUvdLGxtfYl7VLGD379W74WOlwp65X3-O9Y9MJVT01z4_vas_bQ_oahwQNpNunK2eHqjgEa1SCetfu5pJceev7sypWTRAcR_lYedtfurCkEp2529Wl7M-z-1V864knICs-z4f53aaBea4ElVl4hkotYfcOLcYbVvsqIaQBdHQOP16o2sb-2p6AXhsuDHYNAQ0l8JoTFNto9NW8XnbWT8GgoeCHEuY' \
+  -H 'origin: https://courseselection.ntust.edu.tw' \
+  -H 'referer: https://courseselection.ntust.edu.tw/' \
+  -H 'sec-ch-ua: "Chromium";v="110", "Not A(Brand";v="24", "Microsoft Edge";v="110"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36 Edg/110.0.1587.56' \
+  -H 'x-requested-with: XMLHttpRequest' \
+  --data-raw 'CourseNo=CS5024701&type=3' \
+  --compressed
