@@ -1,7 +1,7 @@
 # NTUST Course Auto Selection Tool v1.3
 # 台科 自動選課 工具 v1.3
 <div align="center">
-  <img src="./logo.png">
+  <img src="./imgs/logo.png">
 </div>
 
 &ensp;免責聲明 :
@@ -14,7 +14,7 @@
 ```
 
 [下載連結(Windows執行檔)](https://github.com/NTUST-Student/NTUST-Course-Auto-Selection-Tool/releases/tag/v1.3)
-![image](screenshot.png)\
+![image](./imgs/screenshot.png)\
 
 ## Usage 
  Read `NTUST_Course_Auto_Selection_Tool_Guide.pdf` for more infomation
