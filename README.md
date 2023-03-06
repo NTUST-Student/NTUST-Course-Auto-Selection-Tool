@@ -1,8 +1,7 @@
 # NTUST Course Auto Selection Tool v1.3
 # 台科 自動選課 工具 v1.3
-<div align="center">
-  <img src="./imgs/logo.png">
-</div>
+
+![image](./imgs/logo.png)
 
 &ensp;免責聲明 :
 ```
@@ -12,9 +11,10 @@
 
 * 任何使用本程式碼和電腦程式的人士，即表示已閱讀、理解並同意以上免責聲明。
 ```
-
+[Download Link(For Windows Only)](https://github.com/NTUST-Student/NTUST-Course-Auto-Selection-Tool/releases/tag/v1.3)
 [下載連結(Windows執行檔)](https://github.com/NTUST-Student/NTUST-Course-Auto-Selection-Tool/releases/tag/v1.3)
-![image](./imgs/screenshot.png)\
+
+![image](./imgs/screenshot.png)
 
 ## Usage 
  Read `NTUST_Course_Auto_Selection_Tool_Guide.pdf` for more infomation
