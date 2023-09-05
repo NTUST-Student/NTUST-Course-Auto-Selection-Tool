@@ -1,5 +1,5 @@
-# NTUST Course Auto Selection Tool v1.3
-# 台科 自動選課 工具 v1.3
+# NTUST Course Auto Selection Tool v1.4
+# 台科 自動選課 工具 v1.4
 
 ![image](./imgs/logo.png)
 
