@@ -25,7 +25,7 @@ SOFTWARE.
 *   Language : C++14
 *   Develop Environment : MSVC
 *   Last Update: 05 March, 2023
-*	Version : 1.3
+*	Version : 1.4
 *   Code Description: the header of class SelectionTool
 *   Code Depends on : 
 *   Third Party Library :
@@ -92,7 +92,7 @@ private:
 	const std::string LAST_SELECTION_TIME_FRONT = "Last Selection Time :";
 	const std::string SELECTION_COUNT_FRONT = "Selection Count :";
 	const std::string SETTING_FILENAME = "./setting.txt";
-	
+	const std::string HEADER_CONTENT_TYPE = "content-type: application/x-www-form-urlencoded; charset=UTF-8";
 public:
 	~SelectionTool();
 	void SaveSettingFile();

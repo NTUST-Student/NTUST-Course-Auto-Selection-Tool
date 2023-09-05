@@ -26,7 +26,7 @@ SOFTWARE.
 *   Language : C++14
 *   Develop Environment : MSVC
 *   Last Update: 05 March, 2023
-*   Version : 1.3
+*   Version : 1.4
 *   Code Description: the implementation of class SelectionTool
 *   Code Depends on : SelectionTool.h
 *   Third Party Library :
@@ -51,6 +51,7 @@ void SelectionTool::select_course(std::string postURL, std::string postData, std
         curl_easy_setopt(curl, CURLOPT_URL, postURL.c_str());
         curl_easy_setopt(curl, CURLOPT_POSTFIELDS, postData.c_str());
         headers = curl_slist_append(headers, headerCookie.c_str());
+        headers = curl_slist_append(headers, HEADER_CONTENT_TYPE.c_str());
         curl_easy_setopt(curl, CURLOPT_HTTPHEADER, headers);
         res = curl_easy_perform(curl);
         if (res != CURLE_OK) {

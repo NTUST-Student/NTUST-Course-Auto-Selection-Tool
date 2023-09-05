@@ -40,6 +40,7 @@ v1.0 : basic function
 v1.1 : allow multiple course selection, and show the selection time
 v1.2 : save the setting in setting.txt
 v1.3 : add program guide, and revise some words.
+v1.4 : Since school have change some request rules, so I modify the header to make tool still working. 2023-09-15
 */
 
 #include "SelectionTool.h"
