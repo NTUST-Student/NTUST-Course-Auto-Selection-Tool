@@ -11,8 +11,8 @@
 
 * 任何使用本程式碼和電腦程式的人士，即表示已閱讀、理解並同意以上免責聲明。
 ```
-[Download Link(For Windows Only)](https://github.com/NTUST-Student/NTUST-Course-Auto-Selection-Tool/releases/tag/v1.3)
-[下載連結(Windows執行檔)](https://github.com/NTUST-Student/NTUST-Course-Auto-Selection-Tool/releases/tag/v1.3)
+[Download Link(For Windows Only)](https://github.com/NTUST-Student/NTUST-Course-Auto-Selection-Tool/releases/tag/v1.4)
+[下載連結(Windows執行檔)](https://github.com/NTUST-Student/NTUST-Course-Auto-Selection-Tool/releases/tag/v1.4)
 
 ![image](./imgs/screenshot.png)
 
